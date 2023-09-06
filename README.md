@@ -18,7 +18,9 @@ The following Python libraries:
 You can install the required libraries using pip:
 
 >pip install requests
+
 >pip install beautifulsoup4
+
 >pip install lxml
 
 # Usage
