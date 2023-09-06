@@ -1,7 +1,8 @@
 # Email-Scraper
 This Python script is a simple web scraping tool designed to extract email addresses from a target webpage.
 
-##Email Address Scraper
+# Email Address Scraper
+
 This Python script is a web scraping tool that allows you to extract email addresses from a specified webpage. It can be useful for various purposes, such as building email lists or conducting research. Please use this tool responsibly and ensure you have the necessary permissions to scrape the target website.
 
 
@@ -40,6 +41,6 @@ This script has a default limit of processing 100 URLs to ensure safety and prev
 
 Web scraping may not always be accurate, and false positives or missed email addresses are possible.
 
-#Disclaimer
+# Disclaimer
 
 This script is intended for educational and research purposes. Use it responsibly and ensure you have the necessary permissions to scrape websites.
