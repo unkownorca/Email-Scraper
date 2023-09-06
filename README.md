@@ -5,7 +5,7 @@ This Python script is a simple web scraping tool designed to extract email addre
 This Python script is a web scraping tool that allows you to extract email addresses from a specified webpage. It can be useful for various purposes, such as building email lists or conducting research. Please use this tool responsibly and ensure you have the necessary permissions to scrape the target website.
 
 
-##Prerequisites
+# Prerequisites
 To run this script, you'll need:
 
 - Python 3.10.7
@@ -21,7 +21,7 @@ You can install the required libraries using pip:
 >pip install beautifulsoup4
 >pip install lxml
 
-##Usage
+# Usage
 Clone this repository to your local machine or download the script directly.
 
 Open a terminal or command prompt and navigate to the script's directory.
