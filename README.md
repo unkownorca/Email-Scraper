@@ -34,10 +34,12 @@ You'll be prompted to enter the target URL you want to scan for email addresses.
 
 The script will start scanning the webpage, and any discovered email addresses will be displayed in the terminal.
 
-##Limitations
+#Limitations
+
 This script has a default limit of processing 100 URLs to ensure safety and prevent excessive web requests. You can adjust this limit based on your requirements.
 
 Web scraping may not always be accurate, and false positives or missed email addresses are possible.
 
-Disclaimer
+#Disclaimer
+
 This script is intended for educational and research purposes. Use it responsibly and ensure you have the necessary permissions to scrape websites.
