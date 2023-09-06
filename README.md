@@ -30,7 +30,7 @@ Open a terminal or command prompt and navigate to the script's directory.
 
 Run the script using Python:
 
->python email_scraper.py
+>python Email_Scrapercaz.py
 
 You'll be prompted to enter the target URL you want to scan for email addresses. Provide the URL and press Enter.
 
